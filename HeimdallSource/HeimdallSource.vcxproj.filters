@@ -18,7 +18,7 @@
     <ClCompile Include="HeimdallSource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="WindowHandler.cpp">
+    <ClCompile Include="GUIManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="imgui.cpp">
@@ -50,7 +50,7 @@
     <ClInclude Include="AudioHandler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="WindowHandler.h">
+    <ClInclude Include="GUIManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="imconfig.h">
